@@ -22,7 +22,7 @@ public class MyWindow extends JFrame {
 			}
 		});
 		
-		lblNewLabel = new JLabel("");
+		lblNewLabel = new JLabel("push ボタンを押してください。");
 		lblNewLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		GroupLayout groupLayout = new GroupLayout(getContentPane());
 		groupLayout.setHorizontalGroup(
